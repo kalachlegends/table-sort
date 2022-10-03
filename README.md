@@ -12,7 +12,7 @@ npm install
 ```
 npm run serve
 
-nodemon /api/app.js
+nodemon /api/app.js or node /api/app.js
 ```
 
 ### Compiles and minifies for production
